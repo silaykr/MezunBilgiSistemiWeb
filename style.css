@@ -1,0 +1,89 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60rem;
+    
+  }
+
+  .form-container input{
+    width: 20rem;
+    height: 1.5rem;
+    font-size: 1.3rem;
+    text-align: center;
+  }
+
+  input, button {
+    padding: .5rem;
+    margin-bottom: 0.9rem;
+}
+
+#button{
+    height: 2.6rem;
+}
+
+form h1,form h2 {
+    line-height: 0.15;
+  }
+
+  input{
+    border-radius: 20px;
+  }
+
+  #button:hover{
+    background-color: #cacaca;
+    opacity: 1;
+    color: black;
+    box-shadow: .17rem .17rem .17rem .17rem rgba(195, 195, 195, 0.25)  }
+
+    .container {
+        display: flex;
+        justify-content: center;
+      }
+      .left-column {
+        width: 50rem;
+        background-color: #B2B2B2;
+      }
+      
+      .right-column {
+        flex-grow: 1;
+        background-color: #EAEAEA;
+      }
+
+.container img{
+        width: 25rem;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        float: left;
+      
+} 
+
+.container #yazi{
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60rem;
+    text-align: center;
+
+
+}
+            
+input[type="text"], input[type="password"]{
+    background-color: #EAEAEA;
+}
+
+input[type="text"]:hover, input[type="password"]:hover{
+    background-color: #cacaca;
+    opacity: 1;
+    color: black;
+    box-shadow: .17rem .17rem .17rem .17rem rgba(218, 217, 217, 0.25)  ;
+
+}
+    
+
+  
